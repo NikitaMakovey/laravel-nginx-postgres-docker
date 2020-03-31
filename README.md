@@ -2,6 +2,8 @@
 
 Launch this workspace using the following commands:
 
+`cp .env.example .env`
+
 `docker-compose build`
 
 `docker-compose up -d`
