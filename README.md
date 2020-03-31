@@ -11,5 +11,7 @@ To configure Laravel:
 `docker exec -it php-fpm composer install`
 
 Next you can check 
+
 -> Adminer by `localhost:8080`
+
 -> Laravel application by `localhost:80` 
